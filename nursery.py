@@ -1,0 +1,10 @@
+animal = "cow"
+name = "diddle diddle"
+animal_2 = "cat"
+instrument = "fiddle"
+space = "moon"
+animal_3 = "dog"
+dish = "dish"
+dish_2 = "spoon"
+message = f"Hey {name} the {animal_2} and the {instrument}, the {animal} jumped over the {space}. The little {animal_3} laughed to see such sport \nand the {dish} ran away with the {dish_2}."
+print (message)
