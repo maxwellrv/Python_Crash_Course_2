@@ -1,1 +1,9 @@
-# Python_Crash_Course_2
+# Unlocking the Power of Lists in Python
+For the last couple of days, a large part of my world has revolved around Python lists. Lists are versatile, allowing us to store and manipulate collections of items with ease. In this post, I’ll share my journey through several key aspects of what lists have to offer when you understand how write and manipulate them both correctly and efficiently.
+
+Attached is a bundle of Python files and within them, you will see a variety of different kinds of methods. These are to include: accessing elements within a list, index positions, using individual values, list modification, and adding and removing elements.
+While data is important in the aspect of needing to be kept safe and secure through proper security practices, it is also important to be able to understand how to utilize and leverage these pieces of information to work to your advantage. As an example, if you were to need to add or remove users from an list of administrators to revoke their privelaged access within a company, you would want to make sure that this task was done not just correctly, but in some instances, very efficiently. 
+
+Insider threats can come from disgruntled employees within a company that has some disagreement with elements such as management. However, not only is this a problem, but an insider threat becomes exponentially worse if that user were to have any kind of administrator related privelages. With full unrestricted access to company and client data-confidinetiality, integrity, and availability could be impacted for the worst. 
+
+So in conclusion, each of these components have their own importances and values which makes it equally important to not overlook any of them. In this Python guide book I am currently going through, I am only on page 42 but to help create perspective, I have been coding and reading for hours. This is a seemingly slow process, but already the value that I have gained in Python skills is practically tangible. In many ways the world of learning new code can be seen more as a marathon and not a sprint. 
